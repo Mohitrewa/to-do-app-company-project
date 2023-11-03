@@ -1,0 +1,17 @@
+{
+    "short_name": "Todo App",
+    "name": "My Todo App",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "A simple Todo List app with user authentication",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
